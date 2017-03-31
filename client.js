@@ -6,5 +6,6 @@ $.ajax({
   },
   error: function(msg) {
     //todo: handle error gracefully
+	print("Didn't work")
   }
 });
